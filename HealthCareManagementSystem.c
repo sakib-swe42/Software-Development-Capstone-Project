@@ -11,6 +11,7 @@ void thankYouPopup(void)
     printf(" |       Thanks For Using       |\n");
     printf(" | Healthcare Management System |\n");
     printf(" |   Stay healthy, Stay happy!  |\n");
+    printf(" |       Code By Sakku_SWE!     |\n");
     printf("  ------------------------------\n\n");
 }
 
